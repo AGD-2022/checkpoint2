@@ -2,8 +2,17 @@ task 2
 
 colores usados 
 #fff;
-barios tonos de negroy gris
+barios tonos de negro y gris
 tambien un verde azulado se usa bastante
+
+
+task 3
+
+google:
+
+invitado: puede insertar texto para buscar y acceder a aplicaciones que no requieran cuenta (noticias, finanzas, mapas etc)
+Usuario registrado: puede insertar texto para buscar y puede acceder a su cuenta personal con todas las aplicaciones de google (gmail, fotos, gdrive,...) .
+
 
 task 4
 facebook: mensageria entre personas, compartir fotos, videos y noticias / colocar anuncios dirigidos a usuarios especificos
