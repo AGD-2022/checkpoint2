@@ -1,0 +1,81 @@
+task 2
+
+colores usados 
+#fff;
+barios tonos de negroy gris
+tambien un verde azulado se usa bastante
+
+task 4
+facebook: mensageria entre personas, compartir fotos, videos y noticias / colocar anuncios dirigidos a usuarios especificos
+twitter: conectar a sus usuarios permitiendoles compartir sus pensamientos./ colocar anuncios dirigidos a usuarios especificos
+google:	buscardor web/ que los usuarios agan click en las paginas que a google le interesa
+youtube: permitir a cualquiera crear contenido en video/ monetizar el contenido de los usuarios
+
+
+
+-toastify-color-light: #fff;
+    --toastify-color-dark: #121212;
+    --toastify-color-info: #3498db;
+    --toastify-color-success: #07bc0c;
+    --toastify-color-warning: #f1c40f;
+    --toastify-color-error: #e74c3c;
+    --toastify-color-transparent: hsla(0,0%,100%,.7);
+    --toastify-icon-color-info: var(--toastify-color-info);
+    --toastify-icon-color-success: var(--toastify-color-success);
+    --toastify-icon-color-warning: var(--toastify-color-warning);
+    --toastify-icon-color-error: var(--toastify-color-error);
+    --toastify-toast-width: 320px;
+    --toastify-toast-background: #fff;
+toastify-color-progress-light: linear-gradient(90deg,#4cd964,#5ac8fa,#007aff,#34aadc,#5856d6,#ff2d55);
+    --toastify-color-progress-dark: #bb86fc;
+    --toastify-color-progress-info: var(--toastify-color-info);
+    --toastify-color-progress-success: var(--toastify-color-success);
+    --toastify-color-progress-warning: var(--toastify-color-warning);
+    --toastify-color-progress-error: var(--toastify-color-error);
+}
+
+#191a1d;
+    color: #5e5e5e;
+}
+
+
+position: relative;
+    color: #fff;
+    background: linear-gradient(to bottom,#7a19f1,#332179);
+    background-attachment: fixed;
+
+blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #5b43d6;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffcb05;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #ffffff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #5b43d6;
+    --secondary: #ffcb05;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffcb05;
+    --danger: #dc3545;
+    --light: #ffffff;
+    --dark: #333743;
+
+background: #5b43d6;
+    color: #fff;
+}
+
+
+
+
+background: #1d1d1d;
+background-color: #181818;
+background: #1d1d1d;
+color: #fff;
+
+color: #08FDD8;
